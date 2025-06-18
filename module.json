@@ -1,0 +1,11 @@
+{
+  "name": "lootbuckets",
+  "title": "LootBuckets",
+  "description": "Categorized loot drops by token type or manual fallback.",
+  "version": "0.1",
+  "author": "You",
+  "minimumCoreVersion": "11",
+  "scripts": ["lootbuckets.js"],
+  "manifest": "path/to/module.json",
+  "download": "path/to.zip"
+}
